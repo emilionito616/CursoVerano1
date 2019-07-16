@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CursoVerano1</string>
+    <string name="Altura">Altura (Mts)</string>
+    <string name="Calcula">Calcular</string>
+    <string name="Peso">Peso (Kg)</string>
+    <string name="Titulo">Calcular IMC</string>
+</resources>

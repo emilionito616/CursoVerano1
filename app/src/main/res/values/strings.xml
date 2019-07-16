@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CursoVerano1</string>
+    <string name="Titulo">"IMC Calculate "</string>
+    <string name="Peso">Weight</string>
+    <string name="Altura">Height</string>
+    <string name="Calcula">Calculate</string>
+</resources>
